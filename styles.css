@@ -11,6 +11,7 @@ header {
     padding: 20px;
 }
 
+/* make the image larger maybe? after rest is done */
 header img {
     width: 250px;
     height: auto;
@@ -24,6 +25,15 @@ h1 {
 
 }
 
+nav {
+    margin-top:10px;
+}
+
+nav a {
+    color:grey;
+    padding:8px;
+}
+
 h2 {
     color: rgb(158, 0, 0);
 }
@@ -32,6 +42,4 @@ h3 {
     color:rgb(158, 0, 0)
 }
 
-a {
-    color: grey;
-}
+
