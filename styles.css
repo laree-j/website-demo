@@ -21,7 +21,7 @@ header img {
 h1 {
     color:white;
     font-size: 28px;
-    font-weight:normal;
+    font-weight:bold;
 
 }
 
@@ -41,6 +41,13 @@ nav a {
 
 h2 {
     color: rgb(158, 0, 0);
+    font-size:26px;
+    font-weight: bold;
+
+}
+
+#home p {
+    font-size: 17px;
 }
 
 h3 {
