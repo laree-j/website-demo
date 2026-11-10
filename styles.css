@@ -75,7 +75,13 @@ h2 {
 }
 
 h3 {
-    color:rgb(158, 0, 0)
+    color:rgb(158, 0, 0);
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.game-text p {
+    font-size: 16px;
 }
 
 
