@@ -22,6 +22,7 @@ h1 {
     color:white;
     font-size: 28px;
     font-weight:bold;
+    text-decoration: underline;
 
 }
 
@@ -43,6 +44,7 @@ h2 {
     color: rgb(158, 0, 0);
     font-size:26px;
     font-weight: bold;
+    text-decoration: underline;
 
 }
 
@@ -78,6 +80,7 @@ h3 {
     color:rgb(158, 0, 0);
     font-size: 22px;
     font-weight: bold;
+    text-decoration: underline;
 }
 
 .game-text p {
