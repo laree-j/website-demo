@@ -124,6 +124,16 @@ h3 {
         margin: auto;
     }
 
+    .game-image img {
+        width: 100%;
+        height: auto;
+        margin: auto;
+    }
+
+    .image-credit { 
+        text-align: centre;
+    }
+
     .game-text {
         width: 90%;
         margin:auto;
