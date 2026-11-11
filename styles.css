@@ -66,9 +66,24 @@ h2 {
     max-width: 1100px;
 }
 
-.game img {
-    width: 250px;
-    height: auto;
+.game-image {
+    width: 230px
+}
+
+.game-image img {
+    width:100%;
+    height:auto;
+}
+
+.image-credit {
+    font-size: 12px;
+    color:lightgray;
+    margin-top: 5px;
+}
+
+.image-credit a {
+    color: lightgray;
+    text-decoration: underline;
 }
 
 .game-text {
