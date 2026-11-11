@@ -8,10 +8,10 @@ body {
 }
 
 header {
-    padding: 20px;
+    padding: 15px;
 }
 
-/* make the image larger maybe? after rest is done */
+
 header img {
     width: 300px;
     height: auto;
