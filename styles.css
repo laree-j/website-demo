@@ -67,7 +67,7 @@ h2 {
 }
 
 .game-image {
-    width: 230px
+    width: 250px
 }
 
 .game-image img {
@@ -77,12 +77,12 @@ h2 {
 
 .image-credit {
     font-size: 12px;
-    color:lightgray;
+    color:grey;
     margin-top: 5px;
 }
 
 .image-credit a {
-    color: lightgray;
+    color: grey;
     text-decoration: underline;
 }
 
